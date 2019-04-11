@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(SocketServerClient.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  SocketServer.cpp
-c:\users\siyao\source\repos\socketserverclient\socketserverclient\socketserver.cpp(29): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
-c:\users\siyao\source\repos\socketserverclient\socketserverclient\socketserver.cpp(47): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
-  SocketServerClient.vcxproj -> C:\Users\Siyao\source\repos\SocketServerClient\x64\Debug\SocketServer.exe
