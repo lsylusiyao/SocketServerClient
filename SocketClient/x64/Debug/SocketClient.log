@@ -1,0 +1,8 @@
+﻿  SocketClient.cpp
+c:\users\siyao\source\repos\socketserverclient\socketclient\socketclient.cpp(40): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\siyao\source\repos\socketserverclient\socketclient\socketclient.cpp(69): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\siyao\source\repos\socketserverclient\socketclient\socketclient.cpp(92): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\siyao\source\repos\socketserverclient\socketclient\socketclient.cpp(191): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  SocketClient.vcxproj -> C:\Users\Siyao\source\repos\SocketServerClient\x64\Debug\SocketClient.exe
